@@ -7,7 +7,7 @@ The project analyses labelled network-flow records (46 numerical features, 33 cy
 ## Requirements
 
 - [uv](https://docs.astral.sh/uv/) (manages Python and the virtual environment)
-- Python 3.14 (uv can install it for you)
+- Python 3.13 (uv can install it for you)
 - Main libraries: pandas, numpy, matplotlib, scikit-learn, ipykernel
 
 ## Setup
