@@ -56,6 +56,6 @@ The notebook reads it with a relative path, so the file name and location need t
 Running the notebook creates:
 
 - `figures/` with the plots used in the analysis and report
-- `cleaned_train.csv`, `cleaned_val.csv` and `cleaned_test.csv` with the cleaned splits (set `EXPORT = False` in the last Phase 1 cell to skip this)
+- `cleaned_train.csv` and `cleaned_test.csv` with the cleaned stratified 80/20 splits (written by step xv)
 
 These are derived from the dataset, so keep them out of version control.
