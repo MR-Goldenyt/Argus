@@ -17,6 +17,7 @@ dependencies = [
     "debugpy==1.8.22",
     "executing==2.2.1",
     "fonttools==4.66.1",
+    "imbalanced-learn>=0.14.2",
     "ipykernel==7.4.0",
     "ipython==9.17.1",
     "ipython-pygments-lexers==1.1.1",
