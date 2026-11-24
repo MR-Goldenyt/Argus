@@ -26,6 +26,7 @@ dependencies = [
     "jupyter-client==8.10.0",
     "jupyter-core==5.9.1",
     "kiwisolver==1.5.1",
+    "lightgbm>=4.7.0",
     "matplotlib==3.10.0",
     "matplotlib-inline==0.2.2",
     "narwhals==2.26.0",
